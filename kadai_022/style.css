@@ -43,7 +43,7 @@ img{
 }
 h2::before{
   content:"●";
-  color: orange;
+  color: rgb(239, 111, 139);
   
 }
 h2 {
